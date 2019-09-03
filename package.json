@@ -1,0 +1,19 @@
+{
+  "name": "@studiolabs/analytics-ios",
+  "version": "1.0.0",
+  "description": "Segment Analytics",
+  "main": "Makefile",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/studioLabs/analytics-ios.git"
+  },
+  "author": "Steed Monteiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/studioLabs/analytics-ios/issues"
+  },
+  "homepage": "https://github.com/studioLabs/analytics-ios#readme"
+}
